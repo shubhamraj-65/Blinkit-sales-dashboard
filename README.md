@@ -32,7 +32,18 @@ The goal of this project is to convert raw sales data into meaningful business i
 ---
 
 ## 📸 Dashboard Preview
-(Add screenshots here from Images folder)
+
+### Sales Overview
+![Sales Overview](Images/sales-overview.png)
+
+### Product Performance
+![Product Performance](Images/product-performance.png)
+
+### Geographic Analysis
+![Geographic Analysis](Images/geographic-analysis.png)
+
+### Filters View
+![Filters](Images/filters.png)
 
 ---
 
