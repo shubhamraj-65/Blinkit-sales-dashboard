@@ -1,0 +1,9 @@
+POWER QUERY STEPS (DATA CLEANING PROCESS)
+
+1. Imported raw Excel dataset into Power BI.
+2. Removed null values and duplicate records.
+3. Changed data types (Sales, Ratings, Quantity).
+4. Created proper date format for time-based analysis.
+5. Renamed columns for better readability.
+6. Filtered unnecessary columns for optimization.
+7. Loaded cleaned data into data model.
