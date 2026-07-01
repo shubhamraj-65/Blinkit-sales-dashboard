@@ -29,6 +29,23 @@ The goal of this project is to convert raw sales data into meaningful business i
 - DAX (Data Analysis Expressions)
 - Excel (Dataset)
 
+  ## 🧮 DAX Measures (Business Logic)
+
+This dashboard uses DAX to calculate key business KPIs for analysis.
+
+### Core Measures:
+
+- Total Sales = SUM(Sales[SalesAmount])
+- Average Sales = AVERAGE(Sales[SalesAmount])
+- Total Items Sold = COUNT(Sales[ItemID])
+- Average Rating = AVERAGE(Sales[Rating])
+
+### Business KPIs Derived:
+
+- Sales Contribution % by Outlet Type
+- Category-wise Sales Performance
+- Outlet Performance Ranking
+
 ---
 
 ## 📸 Dashboard Preview
