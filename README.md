@@ -7,19 +7,24 @@ The goal of this project is to convert raw sales data into meaningful business i
 
 ---
 
-## 📌 Dashboard Pages
+## 🎯 Objective
+To build an interactive Power BI dashboard that analyzes Blinkit sales performance across outlets, product categories, and regions to generate actionable business insights for decision-making.
+
+---
+
+## 📌 Key Business Questions
+- Which outlet type generates the highest revenue?
+- Which product categories perform best?
+- How does sales vary across regions?
+- What is the contribution of each outlet type to total sales?
+
+---
+
+## 📊 Dashboard Pages
 - Sales Overview
 - Product Performance
 - Geographic Analysis
 - Deep Dive Analysis
-
----
-
-## 📊 Key Insights
-- Total sales performance across outlets
-- Best performing product categories
-- Regional sales distribution
-- Customer behavior patterns
 
 ---
 
@@ -29,22 +34,31 @@ The goal of this project is to convert raw sales data into meaningful business i
 - DAX (Data Analysis Expressions)
 - Excel (Dataset)
 
-  ## 🧮 DAX Measures (Business Logic)
+---
+
+## 🧮 DAX Measures (Business Logic)
 
 This dashboard uses DAX to calculate key business KPIs for analysis.
 
 ### Core Measures:
-
 - Total Sales = SUM(Sales[SalesAmount])
 - Average Sales = AVERAGE(Sales[SalesAmount])
 - Total Items Sold = COUNT(Sales[ItemID])
 - Average Rating = AVERAGE(Sales[Rating])
 
 ### Business KPIs Derived:
-
 - Sales Contribution % by Outlet Type
 - Category-wise Sales Performance
 - Outlet Performance Ranking
+
+---
+
+## ⚙️ Key Highlights
+- End-to-end data analytics workflow
+- Data cleaning using Power Query
+- KPI creation using DAX
+- Multi-page interactive dashboard
+- Business insights generation
 
 ---
 
@@ -64,14 +78,15 @@ This dashboard uses DAX to calculate key business KPIs for analysis.
 
 ---
 
-## 🎯 Objective
-To demonstrate data cleaning, data modeling, and business intelligence skills using Power BI.
-
 ## 📊 Business Insights
-
 - Tier 3 locations contributed highest sales, indicating strong rural market demand.
 - Regular fat products performed better than low-fat alternatives.
 - Medium outlet size generated the highest revenue compared to small and high outlets.
 - Supermarket Type 1 was the top performing outlet type.
 - Certain product categories consistently outperformed others in terms of sales volume.
 - Customer ratings remained stable across all outlet types, indicating consistent service quality.
+
+---
+
+## 👨‍💻 About This Project
+This project demonstrates my ability to handle real-world data analytics tasks including data cleaning, modeling, visualization, and business insight generation using Power BI.
