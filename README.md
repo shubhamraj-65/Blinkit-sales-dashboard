@@ -49,3 +49,12 @@ The goal of this project is to convert raw sales data into meaningful business i
 
 ## 🎯 Objective
 To demonstrate data cleaning, data modeling, and business intelligence skills using Power BI.
+
+## 📊 Business Insights
+
+- Tier 3 locations contributed highest sales, indicating strong rural market demand.
+- Regular fat products performed better than low-fat alternatives.
+- Medium outlet size generated the highest revenue compared to small and high outlets.
+- Supermarket Type 1 was the top performing outlet type.
+- Certain product categories consistently outperformed others in terms of sales volume.
+- Customer ratings remained stable across all outlet types, indicating consistent service quality.
