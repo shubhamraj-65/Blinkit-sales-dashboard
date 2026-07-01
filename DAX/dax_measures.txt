@@ -1,0 +1,13 @@
+Total Sales = SUM(Sales[SalesAmount])
+
+Average Sales = AVERAGE(Sales[SalesAmount])
+
+Total Items Sold = COUNT(Sales[ItemID])
+
+Average Rating = AVERAGE(Sales[Rating])
+
+Sales % Contribution =
+DIVIDE(
+    SUM(Sales[SalesAmount]),
+    CALCULATE(SUM(Sales[SalesAmount]), ALL(Sales))
+)
