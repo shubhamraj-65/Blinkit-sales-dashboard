@@ -65,16 +65,16 @@ This dashboard uses DAX to calculate key business KPIs for analysis.
 ## 📸 Dashboard Preview
 
 ### Sales Overview
-![Sales Overview](Images/sales-overview.png)
+![Sales Overview](./Images/sales-overview.png)
 
 ### Product Performance
-![Product Performance](Images/product-performance.png)
+![Product Performance](./Images/product-performance.png)
 
 ### Geographic Analysis
-![Geographic Analysis](Images/geographic-analysis.png)
+![Geographic Analysis](./Images/geographic-analysis.png)
 
 ### Filters View
-![Filters](Images/filters.png)
+![Filters](./Images/filters.png)
 
 ---
 
